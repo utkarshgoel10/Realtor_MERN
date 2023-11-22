@@ -28,3 +28,4 @@
 - Sign-up loading & error states
 - Sign-in Route
 - Sign-in Page UI & functionality
+- Redux Toolkit
