@@ -22,8 +22,9 @@
 ### Day 2
 - Sign-up Route
 - Sign-up Page UI & functionality
-- Error Middleware
 
 ### Day 3
+- Error Middleware
+- Sign-up loading & error states
 - Sign-in Route
 - Sign-in Page UI & functionality
