@@ -21,11 +21,12 @@
 
 ### Day 2
 - Sign-up Route
-- Sign-up Page UI & functionality
+- Sign-up Page UI & functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/SignUp.jsx">Sign Up Code</a>
 
 ### Day 3
 - Error Middleware
 - Sign-up loading & error states
 - Sign-in Route
-- Sign-in Page UI & functionality
+- Sign-in Page UI & functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/SignUp.jsx">Sign In Code</a>
 - Redux Toolkit
+- Google OAuth (Firebase) <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/OAuthController.js">OAuth Controller</a>
