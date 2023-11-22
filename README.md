@@ -17,7 +17,7 @@
 - Header Component
 - Create & Run Backend Server
 - User Model
-- Tesing backend route
+- Testing backend route
 
 ### Day 2
 - Sign-up Route
