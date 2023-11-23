@@ -34,7 +34,7 @@
 - Google OAuth (Firebase) <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/OAuthController.js">OAuth Controller</a> <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/OAuth-HandleClick.jsx">OAuth Submit Handler</a>
 - Add avatar in header
 - Profile Page UI <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/Profile.jsx">Page UI</a>
-- Image Update (Not required) <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/ImageUpload(Profile.jsx)">Profile Code</a>
+- Image Update (Not required) <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/ImageUpload(Profile).jsx">Profile Code</a>
 - Update User (Api Route)
 - Update User Functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/UpdateFunctionality.jsx">Profile Fxn</a>
 - Delete User
