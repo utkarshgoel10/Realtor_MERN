@@ -29,4 +29,11 @@
 - Sign-in Route
 - Sign-in Page UI & functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/SignIn.jsx">Sign In Code</a>
 - Redux Toolkit & persist <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/store.js">Persist Store</a>
+
+### Day 4
 - Google OAuth (Firebase) <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/OAuthController.js">OAuth Controller</a> <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/OAuth-HandleClick.jsx">OAuth Submit Handler</a>
+- Add avatar in header
+- Profile Page UI <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/Profile.jsx">Page UI</a>
+- Image Upload (Not required) <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/ImageUpload(Profile.jsx)">Profile Code</a>
+- Update User (Api Route)
+- Update user Functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/UpdateFunctionality.jsx">Profile Fxn</a>
