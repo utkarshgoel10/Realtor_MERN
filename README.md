@@ -29,4 +29,4 @@
 - Sign-in Route
 - Sign-in Page UI & functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/SignIn.jsx">Sign In Code</a>
 - Redux Toolkit & persist <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/store.js">Persist Store</a>
-- Google OAuth (Firebase) <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/OAuthController.js">OAuth Controller</a>
+- Google OAuth (Firebase) <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/OAuthController.js">OAuth Controller</a> <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/OAuth-HandleClick.jsx">OAuth Submit Handler</a>
