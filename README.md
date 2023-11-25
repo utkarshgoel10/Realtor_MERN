@@ -49,4 +49,4 @@
 - Show user listings functionality
 - Delete user listing functionality
 - Update listing API route
-- Update listing functionality
+- Update listing functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/updateListing.jsx">UpdateListing UI</a>
