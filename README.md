@@ -37,4 +37,16 @@
 - Image Update (Not required) <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/ImageUpload(Profile).jsx">Profile Code</a>
 - Update User (Api Route)
 - Update User Functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/UpdateFunctionality.jsx">Profile Fxn</a>
+
+### Day 5
 - Delete User
+- Sign out User
+- Add listing API route
+- Create listing page UI
+- Upload listing images 
+- Create listing page functionality 
+- Get user listings API route
+- Show user listings functionality
+- Delete user listing functionality
+- Update listing API route
+- Update listing functionality
