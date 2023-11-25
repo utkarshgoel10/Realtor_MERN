@@ -41,10 +41,10 @@
 ### Day 5
 - Delete User
 - Sign out User
-- Add listing API route
-- Create listing page UI
-- Upload listing images 
-- Create listing page functionality 
+- Create listing page UI <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/CreateListing.jsx">Page UI</a>
+- Create listing API route <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/listing.model.js">Listing Model</a>
+- Upload listing images <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/storeListingImage.js">Store Img Firebase</a>
+- Create listing page functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/listFxn.jsx">Code</a>
 - Get user listings API route
 - Show user listings functionality
 - Delete user listing functionality
