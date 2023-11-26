@@ -59,3 +59,19 @@
 - Search Page <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/searchUI.jsx">Search.jsx</a> <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/listingItem.jsx">Listing Block</a>
 - Home Page <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/HomeUI.jsx">UI</a>
 
+### Deploy to Render (You can also refer to some Yt Video)
+#### Note: Below steps not valid in every scenario
+- index.js
+```
+import path from 'path';
+const __dirname = path.resolve();
+app.use(express.static(path.join(__dirname, '/client/dist')));
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'client', 'dist', 'index.html'));
+})
+```
+- package.json
+```
+"build": "npm install && npm install --prefix client && npm run build --prefix client"
+```
