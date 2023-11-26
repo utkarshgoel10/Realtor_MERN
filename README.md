@@ -48,5 +48,5 @@
 - Get user listings API route
 - Show user listings functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/showListing.jsx">Section code</a>
 - Delete user listing functionality
-- Update listing API route
+- Update listing API route <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/updateListingFxn.js">Function</a>
 - Update listing functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/updateListing.jsx">UpdateListing UI</a>
