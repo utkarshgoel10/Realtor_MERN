@@ -75,3 +75,11 @@ app.get('*', (req, res) => {
 ```
 "build": "npm install && npm install --prefix client && npm run build --prefix client"
 ```
+- Render hosting process
+1. Open render
+2. New -> Web Service
+3. Connect from Github repo
+4. Build Command: npm run build
+5. Start Command: npm start
+6. Add env variables (Add key value pair you have in .env)
+<br/>Submit! Done!
