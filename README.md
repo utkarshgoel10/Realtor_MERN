@@ -46,7 +46,7 @@
 - Upload listing images <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/storeListingImage.js">Store Img Firebase</a>
 - Create listing page functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/listFxn.jsx">Code</a>
 - Get user listings API route
-- Show user listings functionality
+- Show user listings functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/showListing.jsx">Section code</a>
 - Delete user listing functionality
 - Update listing API route
 - Update listing functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/updateListing.jsx">UpdateListing UI</a>
