@@ -82,4 +82,3 @@ app.get('*', (req, res) => {
 4. Build Command: npm run build
 5. Start Command: npm start
 6. Add env variables (Add key value pair you have in .env)
-<br/>Submit! Done!
