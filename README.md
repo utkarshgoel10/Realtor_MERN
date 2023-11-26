@@ -52,3 +52,10 @@
 - Delete user listing functionality
 - Update listing API route <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/updateListingFxn.js">Function</a>
 - Update listing functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/updateListing.jsx">UpdateListing UI</a>
+- Image Slider <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/Slider.js">Slider UI</a>
+- Complete Listing Page <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/completeListing.jsx">Complete UI</a>
+- Search API Route <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/getListings.jsx">Fxn</a>
+- Header search functionality
+- Search Page <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/searchUI.jsx">Search.jsx</a> <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/listingItem.jsx">Listing Block</a>
+- Home Page <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/HomeUI.jsx">UI</a>
+
