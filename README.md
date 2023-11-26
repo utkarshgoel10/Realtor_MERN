@@ -45,6 +45,8 @@
 - Create listing API route <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/listing.model.js">Listing Model</a>
 - Upload listing images <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/storeListingImage.js">Store Img Firebase</a>
 - Create listing page functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/listFxn.jsx">Code</a>
+
+### Day 6
 - Get user listings API route
 - Show user listings functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/showListing.jsx">Section code</a>
 - Delete user listing functionality
