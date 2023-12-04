@@ -39,8 +39,8 @@
 - Update User Functionality <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/UpdateFunctionality.jsx">Profile Fxn</a>
 
 ### Day 5
-- Delete User
-- Sign out User
+- Delete User <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/Del.md">Reference</a>
+- Sign out User <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/SignO.md">Reference</a>
 - Create listing page UI <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/CreateListing.jsx">Page UI</a>
 - Create listing API route <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/listing.model.js">Listing Model</a>
 - Upload listing images <a href="https://github.com/utkarshgoel10/Realtor_MERN/blob/main/Project%20Material/storeListingImage.js">Store Img Firebase</a>
